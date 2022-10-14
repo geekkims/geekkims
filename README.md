@@ -9,7 +9,7 @@ Web Developer & Designer
 * 🌍  I'm based in Nairobi,Kenya
 * 🖥️  See my portfolio at [Website](http://techspace.co.ke/)
 * ✉️  You can contact me at [jaykimamo@gmail.com](mailto:jaykimamo@gmail.com)
-* 🚀  I'm currently working on [Techspace](http://techspace.co.ke/)
+* 🚀  I'm currently working at [Techspace](http://techspace.co.ke/)
 * 🧠  I'm learning Django,NextJs,Python,Laravel,PHP & GO
 * 🤝  I'm open to collaborating on python,Flusk,Django,Laravel
 * ⚡  I am also good in Graphic Designing

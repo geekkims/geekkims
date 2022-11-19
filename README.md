@@ -1,6 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jay Ndungu
 ==================================================================================================================================
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="james-ndungu-134066151" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ke.linkedin.com/in/james-ndungu-134066151?trk=profile-badge">James Ndungu</a></div>
+              
+
 Web Developer & Designer
 ------------------------
 
